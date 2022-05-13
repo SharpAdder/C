@@ -4,3 +4,4 @@ This repo is a collection of small practice exercices in the C language -> [onli
 2. [char var as int var](https://github.com/SharpAdder/C/blob/main/char_as_int.c)
 3. [floating](https://github.com/SharpAdder/C/blob/main/floating_numbers.c)
 4. [type casting](https://github.com/SharpAdder/C/blob/main/type_cating.c)
+5. [type casting2](https://github.com/SharpAdder/C/blob/main/casting2.c)
